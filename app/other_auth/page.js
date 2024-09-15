@@ -1,7 +1,9 @@
 "use client";
 import Navbar from "@/components/Navbar";
 import AuthModal from "@/components/AuthModal";
-
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 export default function OtherAuth() {
   return (
     <main className="w-screen h-screen bg-primary font-poppins flex items-center flex-col">

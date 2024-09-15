@@ -12,6 +12,9 @@ import mockSongs from "@/app/mockSongs";
 import { songNames } from "@/app/mockSongs";
 const Sound = require("react-sound").default;
 
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 const formatDuration = (milliseconds) => {
   const totalSeconds = Math.floor(milliseconds / 1000);
   const minutes = Math.floor(totalSeconds / 60);

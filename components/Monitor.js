@@ -1,7 +1,9 @@
 "use client";
 import React from "react";
 import ReactApexChart from "react-apexcharts";
-
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 export default class Monitor extends React.Component {
   constructor(props) {
     super(props);

@@ -5,6 +5,10 @@ export const metadata = {
   description: "Harmonize your Heartbeat",
 };
 
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
+
 export default function RootLayout({ children }) {
   return (
     <ClerkProvider>

@@ -1,6 +1,9 @@
 import React from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 const AuthModal = ({ spotify = false }) => {
   const router = useRouter();
   return (

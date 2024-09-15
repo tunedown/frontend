@@ -4,6 +4,9 @@ import Hero from "@/components/Hero";
 import { VscTriangleRight } from "react-icons/vsc";
 import { useRouter } from "next/navigation";
 import { SignedIn, SignedOut, SignUpButton } from "@clerk/nextjs";
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 export default function Home() {
   const router = useRouter();
 

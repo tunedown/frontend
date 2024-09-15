@@ -1,5 +1,7 @@
 import React from "react";
-
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 const Hero = () => {
   return (
     <div className="w-full flex items-center justify-start pl-24 py-16">

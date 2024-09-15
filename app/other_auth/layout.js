@@ -1,10 +1,8 @@
 import "@/app/globals.css";
 
-export const metadata = {
-  title: "tunedown | Harmonize your Heartbeat",
-  description: "Harmonize your Heartbeat",
-};
-
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 export default function AuthLayout({ children }) {
   return (
     <html lang="en">

@@ -3,7 +3,9 @@ import Navbar from "@/components/Navbar";
 import MusicPlayer from "@/components/MusicPlayer";
 import { FaLongArrowAltDown } from "react-icons/fa";
 import Monitor from "@/components/Monitor";
-
+if (typeof window === "undefined") {
+  console.log("Oops, `window` is not defined");
+}
 export default function Listen() {
   return (
     <main className=" bg-primary font-poppins">
