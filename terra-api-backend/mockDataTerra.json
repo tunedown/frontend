@@ -1,0 +1,1797 @@
+{
+  "type": "body",
+  "data": [
+    {
+      "temperature_data": {
+        "body_temperature_samples": [
+          {
+            "temperature_celsius": 37.4564817534904,
+            "timestamp": "2024-09-15T05:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 35.82259526364262,
+            "timestamp": "2024-09-15T06:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 37.08200180958306,
+            "timestamp": "2024-09-15T07:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 38.42827579533105,
+            "timestamp": "2024-09-15T08:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 38.0634322233222,
+            "timestamp": "2024-09-15T09:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 36.94202027571966,
+            "timestamp": "2024-09-15T10:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 38.737669115338484,
+            "timestamp": "2024-09-15T11:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 38.86569408033131,
+            "timestamp": "2024-09-15T12:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 35.38540524825156,
+            "timestamp": "2024-09-15T13:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 37.854620421703295,
+            "timestamp": "2024-09-15T14:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 35.51167067137581,
+            "timestamp": "2024-09-15T15:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 37.56670332896704,
+            "timestamp": "2024-09-15T16:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 36.05761015609393,
+            "timestamp": "2024-09-15T17:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 35.242649840990595,
+            "timestamp": "2024-09-15T18:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 35.01453523231337,
+            "timestamp": "2024-09-15T19:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 38.018733752111956,
+            "timestamp": "2024-09-15T20:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 35.85887876560263,
+            "timestamp": "2024-09-15T21:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 38.391053775525435,
+            "timestamp": "2024-09-15T22:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 37.780967079184066,
+            "timestamp": "2024-09-15T23:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 36.74024666078468,
+            "timestamp": "2024-09-16T00:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 38.14060432736356,
+            "timestamp": "2024-09-16T01:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 36.43300847763024,
+            "timestamp": "2024-09-16T02:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 36.10809912166739,
+            "timestamp": "2024-09-16T03:21:05.306000+00:00"
+          },
+          {
+            "temperature_celsius": 35.29127665956533,
+            "timestamp": "2024-09-16T04:21:05.306000+00:00"
+          }
+        ],
+        "skin_temperature_samples": [],
+        "ambient_temperature_samples": []
+      },
+      "metadata": {
+        "end_time": "2024-09-16T05:21:05.306000+00:00",
+        "start_time": "2024-09-15T05:21:05.306000+00:00"
+      },
+      "oxygen_data": {
+        "saturation_samples": [
+          {
+            "percentage": 95,
+            "timestamp": "2024-09-15T07:06:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 94,
+            "timestamp": "2024-09-15T07:41:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 86,
+            "timestamp": "2024-09-15T08:06:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 93,
+            "timestamp": "2024-09-15T09:11:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 94,
+            "timestamp": "2024-09-15T09:26:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 89,
+            "timestamp": "2024-09-15T09:51:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 89,
+            "timestamp": "2024-09-15T10:01:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 97,
+            "timestamp": "2024-09-15T11:26:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 87,
+            "timestamp": "2024-09-15T12:11:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 88,
+            "timestamp": "2024-09-15T13:41:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 89,
+            "timestamp": "2024-09-15T14:11:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 87,
+            "timestamp": "2024-09-15T14:16:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 89,
+            "timestamp": "2024-09-15T14:21:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 86,
+            "timestamp": "2024-09-15T14:46:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 94,
+            "timestamp": "2024-09-15T16:11:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 96,
+            "timestamp": "2024-09-15T17:31:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 95,
+            "timestamp": "2024-09-15T17:41:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 99,
+            "timestamp": "2024-09-15T20:26:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 88,
+            "timestamp": "2024-09-15T21:06:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 87,
+            "timestamp": "2024-09-15T21:46:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 99,
+            "timestamp": "2024-09-15T23:21:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 100,
+            "timestamp": "2024-09-16T00:06:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 90,
+            "timestamp": "2024-09-16T00:46:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 91,
+            "timestamp": "2024-09-16T01:11:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 92,
+            "timestamp": "2024-09-16T01:36:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 88,
+            "timestamp": "2024-09-16T02:41:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 93,
+            "timestamp": "2024-09-16T03:26:05.306000+00:00",
+            "type": 0
+          },
+          {
+            "percentage": 86,
+            "timestamp": "2024-09-16T04:41:05.306000+00:00",
+            "type": 0
+          }
+        ],
+        "avg_saturation_percentage": 96,
+        "vo2_samples": [
+          {
+            "vo2max_ml_per_min_per_kg": 59.91860104760905,
+            "timestamp": "2024-09-15T05:56:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 68.17518397157397,
+            "timestamp": "2024-09-15T07:36:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 70.43275883962082,
+            "timestamp": "2024-09-15T08:51:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 66.43038139382631,
+            "timestamp": "2024-09-15T10:26:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 50.14165472294782,
+            "timestamp": "2024-09-15T11:01:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 56.36796318854027,
+            "timestamp": "2024-09-15T11:11:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 90.84579096595499,
+            "timestamp": "2024-09-15T11:56:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 61.203857713166,
+            "timestamp": "2024-09-15T13:16:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 56.400405445938354,
+            "timestamp": "2024-09-15T16:56:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 50.759621926377456,
+            "timestamp": "2024-09-15T17:21:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 54.789482635048195,
+            "timestamp": "2024-09-15T19:06:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 58.12361248105172,
+            "timestamp": "2024-09-15T19:51:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 70.81784196469462,
+            "timestamp": "2024-09-15T20:51:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 73.06839310795499,
+            "timestamp": "2024-09-15T20:56:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 82.05514100480201,
+            "timestamp": "2024-09-15T22:41:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 65.35721718034746,
+            "timestamp": "2024-09-15T23:31:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 86.60871038928963,
+            "timestamp": "2024-09-16T00:21:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 92.80125192353816,
+            "timestamp": "2024-09-16T00:36:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 66.45846540179487,
+            "timestamp": "2024-09-16T01:26:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 93.47916340467489,
+            "timestamp": "2024-09-16T02:41:05.306000+00:00"
+          },
+          {
+            "vo2max_ml_per_min_per_kg": 76.38895017842229,
+            "timestamp": "2024-09-16T04:31:05.306000+00:00"
+          }
+        ],
+        "vo2max_ml_per_min_per_kg": 67.79911193094772
+      },
+      "glucose_data": {
+        "sensor_usage": null,
+        "time_in_range": null,
+        "detailed_blood_glucose_samples": [],
+        "blood_glucose_samples": [
+          {
+            "timestamp": "2024-09-15T05:21:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 122,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T05:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 198,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T05:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 219,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T06:06:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 93,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T06:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 147,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T06:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 209,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T06:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 179,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T07:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 199,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T07:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 185,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T07:36:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 80,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T07:51:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 84,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T08:06:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 91,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T08:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 194,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T08:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 154,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T08:51:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 136,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T09:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 183,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T09:21:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 92,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T09:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 191,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T09:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 149,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T10:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 173,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T10:21:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 97,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T10:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 159,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T10:51:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 123,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T11:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 165,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T11:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 162,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T11:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 154,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T11:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 192,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T12:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 160,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T12:21:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 106,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T12:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 206,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T12:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 204,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T13:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 187,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T13:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 148,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T13:36:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 91,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T13:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 161,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T14:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 157,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T14:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 147,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T14:36:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 126,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T14:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 210,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T15:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 159,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T15:21:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 102,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T15:36:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 95,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T15:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 173,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T16:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 154,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T16:21:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 93,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T16:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 175,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T16:51:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 100,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T17:06:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 132,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T17:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 150,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T17:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 209,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T17:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 175,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T18:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 200,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T18:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 148,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T18:36:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 129,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T18:51:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 91,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T19:06:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 94,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T19:21:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 125,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T19:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 160,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T19:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 212,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T20:06:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 79,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T20:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 190,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T20:36:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 81,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T20:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 180,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T21:06:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 119,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T21:21:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 136,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T21:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 215,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T21:51:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 77,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T22:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 185,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T22:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 212,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T22:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 202,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T22:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 182,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T23:06:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 106,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T23:21:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 99,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T23:36:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 124,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-15T23:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 188,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T00:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 189,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T00:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 205,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T00:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 172,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T00:51:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 126,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T01:06:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 130,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T01:21:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 72,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T01:36:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 82,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T01:51:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 136,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T02:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 168,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T02:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 147,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T02:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 218,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T02:51:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 187,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T03:06:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 189,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T03:21:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 86,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T03:36:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 109,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T03:51:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 126,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T04:06:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 96,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T04:21:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 212,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T04:36:05.306000+00:00",
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 178,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T04:51:05.306000+00:00",
+            "glucose_level_flag": 0,
+            "blood_glucose_mg_per_dL": 120,
+            "trend_arrow": 0
+          },
+          {
+            "timestamp": "2024-09-16T05:06:05.306000+00:00",
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 75,
+            "trend_arrow": 0
+          }
+        ],
+        "gmi": null,
+        "daily_patterns": [],
+        "day_avg_blood_glucose_mg_per_dL": 145.82605027405705
+      },
+      "ketone_data": {
+        "ketone_samples": []
+      },
+      "blood_pressure_data": {
+        "blood_pressure_samples": [
+          {
+            "timestamp": "2024-09-15T23:21:05.306000+00:00",
+            "systolic_bp": 123.03741226681468,
+            "diastolic_bp": 60.24474999423381
+          },
+          {
+            "timestamp": "2024-09-16T01:11:05.306000+00:00",
+            "systolic_bp": 109.9396429630201,
+            "diastolic_bp": 72.36670869624236
+          }
+        ]
+      },
+      "heart_data": {
+        "pulse_wave_velocity_samples": [],
+        "ecg_signal": [
+          {
+            "avg_hr_bpm": 117,
+            "afib_classification": 1,
+            "start_timestamp": "2024-09-15T07:56:05.306000+00:00",
+            "raw_signal": [
+              {
+                "timestamp": "2024-09-15T07:56:05.306000+00:00",
+                "potential_uV": 110.21955002434112
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.309000+00:00",
+                "potential_uV": 80.21188327049128
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.312000+00:00",
+                "potential_uV": 117.40782155632974
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.315000+00:00",
+                "potential_uV": -3.9151517773863986
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.318000+00:00",
+                "potential_uV": 46.0231104831673
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.321000+00:00",
+                "potential_uV": -104.6424599190346
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.324000+00:00",
+                "potential_uV": -99.06836840310089
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.327000+00:00",
+                "potential_uV": 46.816784068218624
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.330000+00:00",
+                "potential_uV": -71.09352660973963
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.333000+00:00",
+                "potential_uV": 98.23219693269093
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.336000+00:00",
+                "potential_uV": -94.47418741165512
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.339000+00:00",
+                "potential_uV": 100.30797570719636
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.342000+00:00",
+                "potential_uV": 67.18992188199368
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.345000+00:00",
+                "potential_uV": -69.62233493768431
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.348000+00:00",
+                "potential_uV": 38.260382145527956
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.351000+00:00",
+                "potential_uV": -35.400460196323564
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.354000+00:00",
+                "potential_uV": 1.286268082325705
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.357000+00:00",
+                "potential_uV": -120.12593015925259
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.360000+00:00",
+                "potential_uV": 66.06925296122859
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.363000+00:00",
+                "potential_uV": 26.537002232120614
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.366000+00:00",
+                "potential_uV": -104.8581271677696
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.369000+00:00",
+                "potential_uV": -47.19021118730396
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.372000+00:00",
+                "potential_uV": 98.93148960991343
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.375000+00:00",
+                "potential_uV": -56.24015010688299
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.378000+00:00",
+                "potential_uV": 95.72035114970507
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.381000+00:00",
+                "potential_uV": -15.628064810878698
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.384000+00:00",
+                "potential_uV": -1.726187664296873
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.387000+00:00",
+                "potential_uV": -32.31506791350057
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.390000+00:00",
+                "potential_uV": -64.08436709790394
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.393000+00:00",
+                "potential_uV": -19.12921958266861
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.396000+00:00",
+                "potential_uV": -91.69668097251804
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.399000+00:00",
+                "potential_uV": 113.61070334013212
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.402000+00:00",
+                "potential_uV": -17.84024434111771
+              },
+              {
+                "timestamp": "2024-09-15T07:56:05.405000+00:00",
+                "potential_uV": -117.7784090607991
+              }
+            ]
+          },
+          {
+            "avg_hr_bpm": 151,
+            "afib_classification": 0,
+            "start_timestamp": "2024-09-15T22:06:05.306000+00:00",
+            "raw_signal": [
+              {
+                "timestamp": "2024-09-15T22:06:05.306000+00:00",
+                "potential_uV": 31.22479433519095
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.309000+00:00",
+                "potential_uV": 21.802201107457535
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.312000+00:00",
+                "potential_uV": 29.281465764665228
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.315000+00:00",
+                "potential_uV": 127.8962982553324
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.318000+00:00",
+                "potential_uV": -93.44497995766338
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.321000+00:00",
+                "potential_uV": -38.71569418311833
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.324000+00:00",
+                "potential_uV": 40.15820997188982
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.327000+00:00",
+                "potential_uV": -69.89406122946934
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.330000+00:00",
+                "potential_uV": 41.70520159299355
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.333000+00:00",
+                "potential_uV": -52.13511476823183
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.336000+00:00",
+                "potential_uV": 92.03958194541286
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.339000+00:00",
+                "potential_uV": 11.62750265468813
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.342000+00:00",
+                "potential_uV": 36.59715650175613
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.345000+00:00",
+                "potential_uV": -82.06776658833297
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.348000+00:00",
+                "potential_uV": 85.11473927065788
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.351000+00:00",
+                "potential_uV": -85.6726685397436
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.354000+00:00",
+                "potential_uV": 66.98198185521582
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.357000+00:00",
+                "potential_uV": -75.09659432142172
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.360000+00:00",
+                "potential_uV": -120.75274626862944
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.363000+00:00",
+                "potential_uV": 48.59689893223515
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.366000+00:00",
+                "potential_uV": 96.13930550887693
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.369000+00:00",
+                "potential_uV": 51.796632978237824
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.372000+00:00",
+                "potential_uV": 111.49195260105907
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.375000+00:00",
+                "potential_uV": 52.83798631975358
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.378000+00:00",
+                "potential_uV": 28.632116165667043
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.381000+00:00",
+                "potential_uV": -1.8528296826141002
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.384000+00:00",
+                "potential_uV": -2.791389476868659
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.387000+00:00",
+                "potential_uV": -11.964749888207308
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.390000+00:00",
+                "potential_uV": 99.0324431969722
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.393000+00:00",
+                "potential_uV": -114.4521629096268
+              },
+              {
+                "timestamp": "2024-09-15T22:06:05.396000+00:00",
+                "potential_uV": -19.12936983821089
+              }
+            ]
+          }
+        ],
+        "afib_classification_samples": [],
+        "rr_interval_samples": [
+          {
+            "hr_bpm": 83,
+            "rr_interval_ms": 1321.7689814502205,
+            "timestamp": "2024-09-15T06:56:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 180,
+            "rr_interval_ms": 674.9846513190042,
+            "timestamp": "2024-09-15T07:06:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 75,
+            "rr_interval_ms": 1265.8416982710673,
+            "timestamp": "2024-09-15T08:06:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 63,
+            "rr_interval_ms": 1046.2324751853448,
+            "timestamp": "2024-09-15T09:26:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 158,
+            "rr_interval_ms": 1659.3289100713728,
+            "timestamp": "2024-09-15T09:36:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 170,
+            "rr_interval_ms": 1668.1005655680283,
+            "timestamp": "2024-09-15T10:31:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 72,
+            "rr_interval_ms": 673.2299158986224,
+            "timestamp": "2024-09-15T10:51:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 97,
+            "rr_interval_ms": 716.5959974023081,
+            "timestamp": "2024-09-15T13:56:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 54,
+            "rr_interval_ms": 1001.4611882770967,
+            "timestamp": "2024-09-15T14:26:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 96,
+            "rr_interval_ms": 1363.264122318732,
+            "timestamp": "2024-09-15T14:36:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 144,
+            "rr_interval_ms": 1401.3680207006773,
+            "timestamp": "2024-09-15T15:06:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 58,
+            "rr_interval_ms": 1012.1497098718522,
+            "timestamp": "2024-09-15T15:56:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 119,
+            "rr_interval_ms": 944.2523203344952,
+            "timestamp": "2024-09-15T16:11:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 152,
+            "rr_interval_ms": 605.283248342165,
+            "timestamp": "2024-09-15T16:26:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 62,
+            "rr_interval_ms": 832.8965882902507,
+            "timestamp": "2024-09-15T17:41:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 67,
+            "rr_interval_ms": 1830.344674942784,
+            "timestamp": "2024-09-15T17:51:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 134,
+            "rr_interval_ms": 1590.5726854745064,
+            "timestamp": "2024-09-15T18:31:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 79,
+            "rr_interval_ms": 1167.1577150031972,
+            "timestamp": "2024-09-15T21:36:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 136,
+            "rr_interval_ms": 1945.2789845387733,
+            "timestamp": "2024-09-15T22:26:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 83,
+            "rr_interval_ms": 635.6563308622679,
+            "timestamp": "2024-09-15T23:11:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 135,
+            "rr_interval_ms": 783.1094285479875,
+            "timestamp": "2024-09-15T23:56:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 176,
+            "rr_interval_ms": 957.2994386521202,
+            "timestamp": "2024-09-16T00:06:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 147,
+            "rr_interval_ms": 1852.047083870242,
+            "timestamp": "2024-09-16T00:56:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 96,
+            "rr_interval_ms": 887.3800214921214,
+            "timestamp": "2024-09-16T02:11:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 141,
+            "rr_interval_ms": 501.5041599499715,
+            "timestamp": "2024-09-16T02:46:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 84,
+            "rr_interval_ms": 523.2229024069431,
+            "timestamp": "2024-09-16T03:06:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 58,
+            "rr_interval_ms": 699.7798224876642,
+            "timestamp": "2024-09-16T03:41:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 79,
+            "rr_interval_ms": 1429.1834955339416,
+            "timestamp": "2024-09-16T03:46:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 167,
+            "rr_interval_ms": 1528.8215304398873,
+            "timestamp": "2024-09-16T04:11:05.306000+00:00"
+          },
+          {
+            "hr_bpm": 143,
+            "rr_interval_ms": 1362.0837606697469,
+            "timestamp": "2024-09-16T04:16:05.306000+00:00"
+          }
+        ],
+        "heart_rate_data": {
+          "detailed": {
+            "hrv_samples_rmssd": [],
+            "hr_samples": [
+              {
+                "timestamp": "2024-09-15T06:11:05.306000+00:00",
+                "bpm": 151,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T06:21:05.306000+00:00",
+                "bpm": 75,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T09:21:05.306000+00:00",
+                "bpm": 70,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T11:16:05.306000+00:00",
+                "bpm": 137,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T12:21:05.306000+00:00",
+                "bpm": 108,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T12:31:05.306000+00:00",
+                "bpm": 78,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T13:41:05.306000+00:00",
+                "bpm": 73,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T14:46:05.306000+00:00",
+                "bpm": 161,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T14:51:05.306000+00:00",
+                "bpm": 180,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T15:06:05.306000+00:00",
+                "bpm": 74,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T15:16:05.306000+00:00",
+                "bpm": 69,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T15:26:05.306000+00:00",
+                "bpm": 174,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T15:56:05.306000+00:00",
+                "bpm": 146,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T16:46:05.306000+00:00",
+                "bpm": 156,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T17:31:05.306000+00:00",
+                "bpm": 153,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T18:41:05.306000+00:00",
+                "bpm": 149,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T19:36:05.306000+00:00",
+                "bpm": 158,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T21:06:05.306000+00:00",
+                "bpm": 166,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T21:41:05.306000+00:00",
+                "bpm": 132,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T22:11:05.306000+00:00",
+                "bpm": 145,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T22:31:05.306000+00:00",
+                "bpm": 162,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-15T23:06:05.306000+00:00",
+                "bpm": 164,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-16T00:06:05.306000+00:00",
+                "bpm": 103,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-16T04:16:05.306000+00:00",
+                "bpm": 68,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-16T04:46:05.306000+00:00",
+                "bpm": 142,
+                "context": 0,
+                "timer_duration_seconds": null
+              },
+              {
+                "timestamp": "2024-09-16T04:51:05.306000+00:00",
+                "bpm": 140,
+                "context": 0,
+                "timer_duration_seconds": null
+              }
+            ],
+            "hrv_samples_sdnn": [
+              {
+                "timestamp": "2024-09-15T06:56:05.306000+00:00",
+                "hrv_sdnn": 110
+              },
+              {
+                "timestamp": "2024-09-15T07:06:05.306000+00:00",
+                "hrv_sdnn": 69
+              },
+              {
+                "timestamp": "2024-09-15T08:06:05.306000+00:00",
+                "hrv_sdnn": 55
+              },
+              {
+                "timestamp": "2024-09-15T09:26:05.306000+00:00",
+                "hrv_sdnn": 84
+              },
+              {
+                "timestamp": "2024-09-15T09:36:05.306000+00:00",
+                "hrv_sdnn": 104
+              },
+              {
+                "timestamp": "2024-09-15T10:31:05.306000+00:00",
+                "hrv_sdnn": 81
+              },
+              {
+                "timestamp": "2024-09-15T10:51:05.306000+00:00",
+                "hrv_sdnn": 59
+              },
+              {
+                "timestamp": "2024-09-15T13:56:05.306000+00:00",
+                "hrv_sdnn": 37
+              },
+              {
+                "timestamp": "2024-09-15T14:26:05.306000+00:00",
+                "hrv_sdnn": 83
+              },
+              {
+                "timestamp": "2024-09-15T14:36:05.306000+00:00",
+                "hrv_sdnn": 98
+              },
+              {
+                "timestamp": "2024-09-15T15:06:05.306000+00:00",
+                "hrv_sdnn": 55
+              },
+              {
+                "timestamp": "2024-09-15T15:56:05.306000+00:00",
+                "hrv_sdnn": 77
+              },
+              {
+                "timestamp": "2024-09-15T16:11:05.306000+00:00",
+                "hrv_sdnn": 73
+              },
+              {
+                "timestamp": "2024-09-15T16:26:05.306000+00:00",
+                "hrv_sdnn": 110
+              },
+              {
+                "timestamp": "2024-09-15T17:41:05.306000+00:00",
+                "hrv_sdnn": 43
+              },
+              {
+                "timestamp": "2024-09-15T17:51:05.306000+00:00",
+                "hrv_sdnn": 42
+              },
+              {
+                "timestamp": "2024-09-15T18:31:05.306000+00:00",
+                "hrv_sdnn": 110
+              },
+              {
+                "timestamp": "2024-09-15T21:36:05.306000+00:00",
+                "hrv_sdnn": 41
+              },
+              {
+                "timestamp": "2024-09-15T22:26:05.306000+00:00",
+                "hrv_sdnn": 108
+              },
+              {
+                "timestamp": "2024-09-15T23:11:05.306000+00:00",
+                "hrv_sdnn": 91
+              },
+              {
+                "timestamp": "2024-09-15T23:56:05.306000+00:00",
+                "hrv_sdnn": 84
+              },
+              {
+                "timestamp": "2024-09-16T00:06:05.306000+00:00",
+                "hrv_sdnn": 109
+              },
+              {
+                "timestamp": "2024-09-16T00:56:05.306000+00:00",
+                "hrv_sdnn": 79
+              },
+              {
+                "timestamp": "2024-09-16T02:11:05.306000+00:00",
+                "hrv_sdnn": 60
+              },
+              {
+                "timestamp": "2024-09-16T02:46:05.306000+00:00",
+                "hrv_sdnn": 84
+              },
+              {
+                "timestamp": "2024-09-16T03:06:05.306000+00:00",
+                "hrv_sdnn": 68
+              },
+              {
+                "timestamp": "2024-09-16T03:41:05.306000+00:00",
+                "hrv_sdnn": 92
+              },
+              {
+                "timestamp": "2024-09-16T03:46:05.306000+00:00",
+                "hrv_sdnn": 62
+              },
+              {
+                "timestamp": "2024-09-16T04:11:05.306000+00:00",
+                "hrv_sdnn": 80
+              },
+              {
+                "timestamp": "2024-09-16T04:16:05.306000+00:00",
+                "hrv_sdnn": 59
+              }
+            ]
+          },
+          "summary": {
+            "user_max_hr_bpm": null,
+            "hr_zone_data": [],
+            "max_hr_bpm": 56.2956326851771,
+            "avg_hrv_rmssd": null,
+            "min_hr_bpm": 72.67243395697993,
+            "avg_hr_bpm": 62.264446650416,
+            "resting_hr_bpm": null,
+            "avg_hrv_sdnn": 84.1664521712796
+          }
+        }
+      },
+      "hydration_data": {
+        "hydration_amount_samples": [],
+        "day_total_water_consumption_ml": null
+      },
+      "device_data": {
+        "sensor_state": null,
+        "software_version": null,
+        "activation_timestamp": null,
+        "manufacturer": null,
+        "name": null,
+        "other_devices": [],
+        "hardware_version": null,
+        "serial_number": null
+      },
+      "measurements_data": {
+        "measurements": [
+          {
+            "measurement_time": "2024-09-15T05:21:05.306000+00:00",
+            "height_cm": 165.002673066469,
+            "lean_mass_g": 10.63647317913841,
+            "weight_kg": 88.13626691159541,
+            "urine_color": null,
+            "insulin_type": "rapid-acting",
+            "skin_fold_mm": 31.051062657885808,
+            "RMR": 1202,
+            "user_notes": null,
+            "bone_mass_g": 19.947839354875132,
+            "insulin_units": 473.75511251868693,
+            "BMR": 1222,
+            "BMI": 31.074353222172615,
+            "water_percentage": 20.194372006764404,
+            "bodyfat_percentage": 60.519359034226696,
+            "muscle_mass_g": 16.534485810752884,
+            "estimated_fitness_age": 60
+          },
+          {
+            "measurement_time": "2024-09-15T17:21:05.306000+00:00",
+            "height_cm": 154.22967736024788,
+            "lean_mass_g": 48.86866438723545,
+            "weight_kg": 99.69333750612299,
+            "urine_color": null,
+            "insulin_type": "rapid-acting",
+            "skin_fold_mm": 52.62323168821671,
+            "RMR": 1026,
+            "user_notes": null,
+            "bone_mass_g": 15.330236025024224,
+            "insulin_units": 1401.750727386044,
+            "BMR": 1887,
+            "BMI": 19.30305740393071,
+            "water_percentage": 11.871665591711377,
+            "bodyfat_percentage": 96.65071642035201,
+            "muscle_mass_g": 42.05002406420802,
+            "estimated_fitness_age": 18
+          },
+          {
+            "measurement_time": "2024-09-15T20:21:05.306000+00:00",
+            "height_cm": 171.24460368383623,
+            "lean_mass_g": 20.900385798583294,
+            "weight_kg": 49.93703041146415,
+            "urine_color": null,
+            "insulin_type": "rapid-acting",
+            "skin_fold_mm": 14.88251128932303,
+            "RMR": 1118,
+            "user_notes": null,
+            "bone_mass_g": 26.874275388411284,
+            "insulin_units": 1776.5720971774192,
+            "BMR": 899,
+            "BMI": 16.962417084582253,
+            "water_percentage": 25.97415056117548,
+            "bodyfat_percentage": 41.29843083268657,
+            "muscle_mass_g": 40.56726331575995,
+            "estimated_fitness_age": 55
+          },
+          {
+            "measurement_time": "2024-09-15T23:21:05.306000+00:00",
+            "height_cm": 167.08333100100822,
+            "lean_mass_g": 48.28002970610617,
+            "weight_kg": 65.52451513662,
+            "urine_color": null,
+            "insulin_type": "rapid-acting",
+            "skin_fold_mm": 47.54290284366479,
+            "RMR": 1026,
+            "user_notes": null,
+            "bone_mass_g": 12.762995591763355,
+            "insulin_units": 450.65398762769814,
+            "BMR": 2179,
+            "BMI": 17.978881271779947,
+            "water_percentage": 72.84850184273967,
+            "bodyfat_percentage": 5.461388947782653,
+            "muscle_mass_g": 32.24292826422323,
+            "estimated_fitness_age": 69
+          },
+          {
+            "measurement_time": "2024-09-16T02:21:05.306000+00:00",
+            "height_cm": 149.16320211723396,
+            "lean_mass_g": 26.776128802755892,
+            "weight_kg": 58.87665724165957,
+            "urine_color": null,
+            "insulin_type": "rapid-acting",
+            "skin_fold_mm": 18.988843987193427,
+            "RMR": 1756,
+            "user_notes": null,
+            "bone_mass_g": 27.767054624439908,
+            "insulin_units": 1200.0690030978878,
+            "BMR": 1040,
+            "BMI": 31.628024490073752,
+            "water_percentage": 98.17972686117305,
+            "bodyfat_percentage": 46.71623375174525,
+            "muscle_mass_g": 24.337418743396555,
+            "estimated_fitness_age": 7
+          }
+        ]
+      }
+    }
+  ],
+  "user": {
+    "created_at": null,
+    "user_id": "deee3abd-5a10-4c83-b8a1-f476e36955c8",
+    "last_webhook_update": null,
+    "provider": "APPLE",
+    "reference_id": "",
+    "scopes": null,
+    "active": true
+  }
+}
