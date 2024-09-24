@@ -12,9 +12,6 @@ import mockSongs from "@/app/mockSongs";
 import { songNames } from "@/app/mockSongs";
 const Sound = require("react-sound").default;
 
-if (typeof window === "undefined") {
-  console.log("Oops, `window` is not defined");
-}
 const formatDuration = (milliseconds) => {
   const totalSeconds = Math.floor(milliseconds / 1000);
   const minutes = Math.floor(totalSeconds / 60);
@@ -35,7 +32,7 @@ const MusicPlayer = () => {
   const [index, setIndex] = useState(
     Math.floor(Math.random() * mockSongs.length)
   );
-  const [imageId, setImageId] = useState(Math.floor(Math.random() * 1000));
+  const [imageId, setImageId] = useState(Math.floor(Math.random() * 100));
   const [songNameIndex, setSongNameIndex] = useState(
     Math.floor(Math.random() * 20)
   );

@@ -1,6 +1,3 @@
-if (typeof window === "undefined") {
-  console.log("Oops, `window` is not defined");
-}
 const mockSongs = [
   {
     name: "Sandy Lagoon",

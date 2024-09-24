@@ -2,9 +2,6 @@
 import React from "react";
 import Logo from "./Logo";
 import { useRouter } from "next/navigation";
-if (typeof window === "undefined") {
-  console.log("Oops, `window` is not defined");
-}
 const Navbar = () => {
   const router = useRouter();
 
