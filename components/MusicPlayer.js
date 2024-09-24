@@ -32,7 +32,7 @@ const MusicPlayer = () => {
   const [index, setIndex] = useState(
     Math.floor(Math.random() * mockSongs.length)
   );
-  const [imageId, setImageId] = useState(Math.floor(Math.random() * 100));
+  const [imageId, setImageId] = useState(Math.floor(Math.random() * 15));
   const [songNameIndex, setSongNameIndex] = useState(
     Math.floor(Math.random() * 20)
   );

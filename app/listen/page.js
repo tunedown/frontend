@@ -1,8 +1,9 @@
-"use client";
+// "use client";
 import Navbar from "@/components/Navbar";
 import MusicPlayer from "@/components/MusicPlayer";
 import { FaLongArrowAltDown } from "react-icons/fa";
 import Monitor from "@/components/Monitor";
+
 export default function Listen() {
   return (
     <main className=" bg-primary font-poppins">
